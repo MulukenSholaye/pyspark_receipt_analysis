@@ -30,6 +30,6 @@ To run this notebook, you need a Python environment with PySpark and the necessa
 Run the Notebook:
 Launch a Jupyter Notebook or JupyterLab server from your terminal and open invoice_analysis.ipynb.
 
-jupyter notebook
+        jupyter notebook
 
 The notebook is designed to be executed cell-by-cell. Each section includes code, comments, and visualizations to help you understand the data and the analysis being performed.
