@@ -1,6 +1,6 @@
 # PySpark Invoice Analysis
 This project is a comprehensive PySpark notebook (invoice_analysis.ipynb) designed to perform in-depth data analysis on a financial invoice dataset. It leverages PySpark for scalable data processing and uses matplotlib and seaborn for data visualization. The notebook provides key business insights into financial health, vendor performance, and sales trends.
-
+![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/285061c246ab26062909d7b82b946c6754a42bf9/einvoice-online-digital-statements-concept-260nw-2488413193.webp)
 # Key Features
 The notebook is structured to walk you through a complete data analysis workflow, including:
 
