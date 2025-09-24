@@ -15,7 +15,7 @@ The notebook is structured to walk you through a complete data analysis workflow
 # Data Requirement
 This notebook requires a single CSV file named Fact_Invoice.csv to be present in the same directory. The analysis is based on the schema and columns available in this dataset.
 
-# Note: Analyses for product_category and regional_sales were requested but could not be performed as the required data columns were not present in the provided dataset.
+        ### Note: Analyses for product_category and regional_sales were requested but could not be performed as the required data columns were not present in the provided dataset.
 
 # Setup and Usage
 To run this notebook, you need a Python environment with PySpark and the necessary visualization libraries installed.
