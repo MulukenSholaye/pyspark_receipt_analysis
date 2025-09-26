@@ -33,3 +33,16 @@ Launch a Jupyter Notebook or JupyterLab server from your terminal and open invoi
         jupyter notebook
 
 The notebook is designed to be executed cell-by-cell. Each section includes code, comments, and visualizations to help you understand the data and the analysis being performed.
+# Screenshots of Notebook
+
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/acf79d8696306d570ee3b38c8809a209d58e1e88/screenshots/Screenshot%20from%202025-09-26%2012-08-00.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/acf79d8696306d570ee3b38c8809a209d58e1e88/screenshots/Screenshot%20from%202025-09-26%2012-08-21.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-08-40.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-08-54.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-09-04.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-09-36.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-09-55.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-10-23.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-10-34.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-10-50.png)
+* ![](https://github.com/MulukenSholaye/pyspark_receipt_analysis/blob/75263ad491c3a569720eb41d7431b0cd09bb8909/Screenshot%20from%202025-09-26%2012-11-11.png)
